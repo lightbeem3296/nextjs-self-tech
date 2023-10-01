@@ -30,4 +30,4 @@ export function getStaticProps() {
 }
 
 export default AllPostsPage;
-                                                         
+                                                          
