@@ -42,4 +42,4 @@ export function getStaticPaths() {
 }
 
 export default PostDetailPage;
-                                                
+                                                 
